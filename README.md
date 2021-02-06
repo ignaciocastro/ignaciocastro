@@ -1,1 +1,1 @@
-<img align="center" src="https://lastfm-recently-played.vercel.app/api?user=ignaciocm" />
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=ignaciocm&width=600)
