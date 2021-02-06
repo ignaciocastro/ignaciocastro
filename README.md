@@ -1,4 +1,3 @@
 
 <p align="center">
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=ignaciocm)
-</p>
+  <iframe src="https://lastfm-recently-played.vercel.app/api?user=ignaciocm"></iframe></p>
