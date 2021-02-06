@@ -1,1 +1,1 @@
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=ignaciocm)[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ignaciocastrom&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+<img align="center" src="https://lastfm-recently-played.vercel.app/api?user=ignaciocm" />
