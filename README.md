@@ -1,1 +1,1 @@
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=ignaciocm&width=600)
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=ignaciocm&width=1200)
