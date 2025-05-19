@@ -1,7 +1,4 @@
 <p align="center">
-  <sub>Looking for the blocklist? It lives in <a href="https://gitlab.com/ignaciocastro/a-dove-is-dumb">GitLab</a> now.</sub>
-</p>
-<p align="center">
   <img src="https://dcbadge.limes.pink/api/shield/909650534720471061?style=social#2">
 </p>
 <p align="center">
